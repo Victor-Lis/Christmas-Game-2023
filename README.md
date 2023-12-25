@@ -99,6 +99,10 @@ async function share(){
     }
 }
 ```
+
+### Observação
+Os trechos de código acima foram os mais marcantes, por envolverem uma lógica um pouco mais complexa, como os outros são mais simples, não expliquei com tantos detalhes.
+
 # Resultado
 
 ![](https://raw.githubusercontent.com/Victor-Lis/Christmas-Game-2023/main/Images/Tela%20Start.png)
