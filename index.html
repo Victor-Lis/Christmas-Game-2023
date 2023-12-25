@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Natal!</title>
+
+    <link rel="stylesheet" href="./CSS/styles.css"> 
+    <script src="./JS/script.js" defer></script>
+
+</head>
+<body>
+    <div class="stats">
+        <p id="stats-timer"> 01:00 </p>
+        <p id="stats-presents"> Presentes 0 </p>
+    </div>
+
+    <img id="present" src="./Images/Presente.png">
+    <img id="destiny" src="./Images/X.svg">
+
+    <div class="modal-background">
+        <div class="modal-body">
+            <h3 id="title"> Entregue os Presentes! </h3>
+            <p id="text"> Leve os presentes até as marcações com um X, para tornar o Natal dos donos desses presentes especial!! </p>
+            <button id="share" onclick="share()">Compartilhar resultado!</button>
+            <button onclick="start()" id="button">Start</button>
+        </div> 
+    </div>
+</body>
+</html>
