@@ -75,7 +75,7 @@ async function share(){
 
         title: 'Feliz Natal!',
         text: `Consegui salvar o Natal de ${count} famílias! Será que você consegue me superar? Clique no link abaixo, jogue e descubra!`,
-        url: 'https://react-dev-victor-landing-page.netlify.app/'
+        url: 'https://christmas-game-2023-by-dev-victor.netlify.app/'
 
     }
 
